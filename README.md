@@ -1,1 +1,1 @@
-my alx repo
+My first programming script
